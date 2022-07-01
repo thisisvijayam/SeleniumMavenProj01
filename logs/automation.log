@@ -22,3 +22,16 @@
 23:03:41.672 [main] INFO  testCases.TC_001_AccountRegistration - Acknowledged Policy 
 23:03:41.850 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
 23:03:51.925 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed 
+23:11:31.605 [main] INFO  testCases.TC_001_AccountRegistration - ****** Starting testCases.TC_001_AccountRegistration ******
+23:11:34.078 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed
+23:11:35.337 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account
+23:11:37.146 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+23:11:37.373 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+23:11:37.621 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+23:11:37.994 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+23:11:38.236 [main] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+23:11:38.725 [main] INFO  testCases.TC_001_AccountRegistration - Provided Passwords 
+23:11:38.936 [main] INFO  testCases.TC_001_AccountRegistration - Acknowledged Policy 
+23:11:42.223 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+23:11:42.305 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+23:11:42.309 [main] INFO  testCases.TC_001_AccountRegistration - ****** Finished testCases.TC_001_AccountRegistration ******

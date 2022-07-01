@@ -40,8 +40,8 @@ public class TC_001_AccountRegistration extends BaseClass
 			regpage.setLastName("World");
 			logger.info("Provided Last Name ");
 			
-			//regpage.setEmail(randomString()+"@email.com");
-			regpage.setEmail("xyzemail.com");
+			regpage.setEmail(randomString()+"@email.com");
+			//regpage.setEmail("xyzemail.com");
 			logger.info("Provided Email ");
 			
 			regpage.setTelephone("123456");

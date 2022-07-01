@@ -1,0 +1,24 @@
+20:35:37.378 [main] INFO  testCases.TC_001_AccountRegistration - ****** Starting testCases.TC_001_AccountRegistration ******
+20:35:38.541 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed
+20:35:39.328 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account
+20:35:40.096 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+20:35:40.274 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+20:35:40.440 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+20:35:40.598 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+20:35:40.733 [main] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+20:35:41.031 [main] INFO  testCases.TC_001_AccountRegistration - Provided Passwords 
+20:35:41.140 [main] INFO  testCases.TC_001_AccountRegistration - Acknowledged Policy 
+20:35:41.273 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+20:35:51.349 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed 
+23:03:36.588 [main] INFO  testCases.TC_001_AccountRegistration - ****** Starting testCases.TC_001_AccountRegistration ******
+23:03:38.201 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed
+23:03:39.033 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account
+23:03:40.338 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Register
+23:03:40.615 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+23:03:40.801 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+23:03:40.995 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+23:03:41.177 [main] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+23:03:41.538 [main] INFO  testCases.TC_001_AccountRegistration - Provided Passwords 
+23:03:41.672 [main] INFO  testCases.TC_001_AccountRegistration - Acknowledged Policy 
+23:03:41.850 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+23:03:51.925 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed 
